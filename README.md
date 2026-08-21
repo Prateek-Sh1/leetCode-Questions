@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
