@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
