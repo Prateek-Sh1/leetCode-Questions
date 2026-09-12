@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
