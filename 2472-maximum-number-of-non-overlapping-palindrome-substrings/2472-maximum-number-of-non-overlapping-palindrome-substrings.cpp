@@ -31,11 +31,24 @@ public:
         int n=s.length();
         if(k==1) return n;
         vector<vector<int>>dp(n+1,vector<int>(n+1));
+        vector<vector<bool>>isPalin(n+1,vector<bool>(n+1,false));
         // return solve(s,k,0,k-1,n,dp);
+        for(int l=1;l<=n;l++){
+            for(int i=0;i+l<=n;i++){
+                int j=i+l-1;
+                if(i==j) isPalin[i][j]=true;
+                else if(i+1==j){
+                    isPalin[i][j]=(s[i]==s[j]);
+                }
+                else{
+                    isPalin[i][j]=(s[i]==s[j]) && isPalin[i+1][j-1];
+                }
+            }
+        }
 
         for(int i=n-1;i>=0;i--){
             for(int j=n-1;j>=0;j--){
-                if(isPalin(s,i,j)){
+                if(isPalin[i][j]){
                     int take=1+(j+k<=n?dp[j+1][j+k]:0);
                     int grow=dp[i][j+1];
                     int slide=dp[i+1][j+1];
@@ -46,6 +59,19 @@ public:
                 dp[i][j]=max(dp[i][j],max(grow,slide));
             }
         }
+        // for(int i=n-1;i>=0;i--){
+        //     for(int j=n-1;j>=0;j--){
+        //         if(isPalin(s,i,j)){
+        //             int take=1+(j+k<=n?dp[j+1][j+k]:0);
+        //             int grow=dp[i][j+1];
+        //             int slide=dp[i+1][j+1];
+        //             dp[i][j]=max(take,max(grow,slide));
+        //         }
+        //         int grow=dp[i][j+1];
+        //         int slide=dp[i+1][j+1];
+        //         dp[i][j]=max(dp[i][j],max(grow,slide));
+        //     }
+        // }
         return dp[0][k-1];
     }
 };
