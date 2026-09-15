@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## String
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
