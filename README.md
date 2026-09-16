@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
