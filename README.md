@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0623-add-one-row-to-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0872-leaf-similar-trees) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0872-leaf-similar-trees) |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
