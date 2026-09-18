@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3467-transform-array-by-parity](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
