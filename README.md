@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
+| [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1143-longest-common-subsequence) |
