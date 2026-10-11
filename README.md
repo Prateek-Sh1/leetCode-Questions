@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
