@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int sumCounts(vector<int>& nums) {
+        unordered_set<int>st;
+        int n=nums.size();
+        int nt=0;
+        int x=1;
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                if(i==j){
+                    nt+=1;
+                    st.insert(nums[i]);
+                    x=1;
+                    continue;
+                }
+                if(st.find(nums[j])==st.end()){
+                    st.insert(nums[j]);
+                    x++;
+                }
+                nt+=(x*x);
+            }
+            st.clear();
+        }
+        return nt;
+    }
+};
