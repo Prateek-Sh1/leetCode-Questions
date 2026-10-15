@@ -7,12 +7,6 @@ public:
         int x=1;
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
-                if(i==j){
-                    nt+=1;
-                    st.insert(nums[i]);
-                    x=1;
-                    continue;
-                }
                 st.insert(nums[j]);
                 x=st.size();
                 nt+=(x*x);
