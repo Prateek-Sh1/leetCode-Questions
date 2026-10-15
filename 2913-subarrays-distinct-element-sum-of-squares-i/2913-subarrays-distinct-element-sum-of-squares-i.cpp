@@ -13,10 +13,8 @@ public:
                     x=1;
                     continue;
                 }
-                if(st.find(nums[j])==st.end()){
-                    st.insert(nums[j]);
-                    x++;
-                }
+                st.insert(nums[j]);
+                x=st.size();
                 nt+=(x*x);
             }
             st.clear();
