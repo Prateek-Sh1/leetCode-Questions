@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
