@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1688-count-of-matches-in-tournament) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
