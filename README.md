@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3467-transform-array-by-parity](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3467-transform-array-by-parity) |
 ## Geometry
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
