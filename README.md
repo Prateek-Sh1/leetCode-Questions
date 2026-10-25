@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
 | [0623-add-one-row-to-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Knapsack Problem
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
