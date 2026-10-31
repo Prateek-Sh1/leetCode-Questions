@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0835-image-overlap) |
 | [1049-last-stone-weight-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1049-last-stone-weight-ii) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0289-game-of-life) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0836-rectangle-overlap) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1688-count-of-matches-in-tournament) |
