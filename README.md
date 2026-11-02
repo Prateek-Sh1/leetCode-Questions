@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
