@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0836-rectangle-overlap) |
