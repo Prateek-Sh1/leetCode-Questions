@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1816-truncate-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1816-truncate-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2409-count-days-spent-together](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2409-count-days-spent-together) |
