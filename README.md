@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1816-truncate-sentence) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
