@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Heap (Priority Queue)
 |  |
