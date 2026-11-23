@@ -14,6 +14,7 @@ public:
         int p=1;
         int i=1;
         while(k>0){
+            if(st[n-i]==0) return 0;
             p*=st[n-i];
             i++;
             k--;
