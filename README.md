@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1672-richest-customer-wealth](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1688-count-of-matches-in-tournament) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
@@ -413,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1049-last-stone-weight-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Prateek-Sh1/leetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
